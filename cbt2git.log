@@ -1,0 +1,9 @@
+2025-04-13 23:51:35.843351 - Received CBT.V508.FILE893.PDS from FILE893.XMI 
+2025-04-13 23:51:35.844165 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE893.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:51:35.844243 - Found @FILE893.txt (text/plain) in CBT.V508.FILE893.PDS, moved to PDS/@FILE893
+2025-04-13 23:51:35.844321 - Found DSMF.txt (text/plain) in CBT.V508.FILE893.PDS, moved to PDS/DSMF
+2025-04-13 23:51:35.844392 - Found DSMF$.jcl (text/plain) in CBT.V508.FILE893.PDS, moved to PDS/DSMF$
+2025-04-13 23:51:35.844482 - Found SMFLOG.txt (text/plain) in CBT.V508.FILE893.PDS, moved to PDS/SMFLOG
+2025-04-13 23:51:35.844543 - Found SMFLOG$.jcl (text/plain) in CBT.V508.FILE893.PDS, moved to PDS/SMFLOG$
+2025-04-13 23:51:35.844603 - Found SMFX.txt (text/plain) in CBT.V508.FILE893.PDS, moved to PDS/SMFX
+2025-04-13 23:51:35.844690 - Found TSOV.rexx (text/plain) in CBT.V508.FILE893.PDS, moved to PDS/TSOV
